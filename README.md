@@ -1,3 +1,5 @@
+# Take note that the notes are from NTU and they have the copyright.
+
 <!-- ABOUT THE PROJECT -->
 ## CE2001 Algorithms Course Repo
 
@@ -40,5 +42,9 @@ The team exprimented the effects of increasing the number of hospitals and the n
 
 
 ![image](https://user-images.githubusercontent.com/76080326/206617564-95b01041-9117-4894-b74a-73d44bf6445a.png)
+
+
+
+
 
 
